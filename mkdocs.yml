@@ -41,6 +41,7 @@ theme:
     - search.suggest
     - search.highlight
 plugins:
+  - social
   - search
   - tags
   - typeset
