@@ -1,0 +1,29 @@
+authors:
+  Alpaca:
+    name: The ALP-aca team
+    avatar: assets/logo.png
+    link: https://alpaca-alps.surge.sh
+    description: The ALP-aca team.
+  Jorge:
+    name: Jorge Alda
+    avatar: https://avatars.githubusercontent.com/u/33020998
+    link: https://github.com/Jorge-Alda
+    description: Postdoctoral researcher in Physics at Università di Padova, Italy, and CAPA Zaragoza, Spain.
+  Marta:
+    name: Marta Fuentes Zamoro
+    description: Ph.D. student at Universidad Autónoma de Madrid/IFT, Spain.
+    avatar: https://avatars.githubusercontent.com/u/183833569
+    link: https://github.com/mfzaso
+  Luca:
+    name: Luca Merlo
+    description: Professor of Theoretical Physics at Universidad Autónoma de Madrid/IFT, Spain.
+    avatar: https://api.dicebear.com/9.x/identicon/svg?seed=Luca%20Merlo
+  Xavi:
+    name: Xavier Ponce Díaz
+    description: Postdoctoral researcher in Physics at University of Basel, Switzerland.
+    avatar: https://avatars.githubusercontent.com/u/149692986
+    link: https://github.com/xavipondi
+  Stefano:
+    name: Stefano Rigolin
+    description: Professor of Theoretical Physics at Università di Padova, Italy.
+    avatar: https://api.dicebear.com/9.x/identicon/svg?seed=Stefano%20Rigolin
