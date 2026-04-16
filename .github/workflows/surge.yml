@@ -7,10 +7,19 @@ jobs:
     name: My job
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Build
+        uses: Tiryoh/actions-mkdocs@v0
+        with:
+          mkdocs_version: 'latest' # option
+          #mkdocs_version: '1.1' # option
+          requirements: 'requirements.txt' # option
+          configfile: 'mkdocs.yml' # option
       - name: Deploy to surge.sh
         uses: dswistowski/surge-sh-action@v1
         with:
           domain: 'alpaca-alps.surge.sh'
-          project: 'docs/'
+          project: 'site/'
           login: ${{ secrets.surge_login }}
           token: ${{ secrets.surge_token }}
