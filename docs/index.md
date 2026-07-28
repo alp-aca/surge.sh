@@ -43,6 +43,8 @@ ALP-aca has been used in the following publications:
 
 * J. Alda: *Lecture notes on Machine Learning applications for global fits*. [arXiv:2604.07520](https://arxiv.org/abs/2604.07520)
 
+* J. Alda, J. Asorey, A. Mir, S. Peñaranda: *Physically Consistent Parameter Inference: Transparent Machine Learning Emulation in High Energy Physics and Cosmology*. [arXiv:2607.12726 [hep-ph]](https://arxiv.org/abs/2607.12726)
+
 If you have used ALP-aca in your publication and want to be featured in this list, please [contact us](https://github.com/alp-aca/alp-aca/issues/new?template=publication-using-alpaca.md).
 
 ## :fontawesome-solid-comments:{ .icons } Feedback
